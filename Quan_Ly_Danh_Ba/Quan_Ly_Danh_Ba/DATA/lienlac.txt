@@ -1,0 +1,7 @@
+1|123|Lien lac 1|lienlac1@gmail.com|0123456789|Quang Binh
+2|123|Lien lac 2|lienlac1@gmail.com|0123456789|Quang Binh
+5|125|Lien lac 5|lienlac1@gmail.com|0123456789|Hue
+6|126|Lien lac 6|lienlac1@gmail.com|0123456789|Hue
+7|127|Lien lac 7|lienlac1@gmail.com|0123456789|Hue
+8|126|Lien lac 8|lienlac1@gmail.com|0123456789|Hue
+10|125|Lien lac 9|lienlac9@gmail.com|0394353545|ha noi

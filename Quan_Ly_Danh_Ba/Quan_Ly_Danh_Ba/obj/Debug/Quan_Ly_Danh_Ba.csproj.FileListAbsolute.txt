@@ -1,0 +1,14 @@
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\bin\Debug\Quan_Ly_Danh_Ba.exe.config
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\bin\Debug\Quan_Ly_Danh_Ba.exe
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\bin\Debug\Quan_Ly_Danh_Ba.pdb
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.csprojAssemblyReference.cache
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.Form1.resources
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.Properties.Resources.resources
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.csproj.GenerateResource.cache
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.csproj.CoreCompileInputs.cache
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.exe
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.pdb
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\bin\Debug\DATA\nhom.txt
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\bin\Debug\DATA\lienlac.txt
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.ThemNhom.resources
+E:\Net Framework\Learn\Quan_Ly_Danh_Ba\Quan_Ly_Danh_Ba\obj\Debug\Quan_Ly_Danh_Ba.ThemLienLac.resources
